@@ -24,3 +24,7 @@ All notable changes to the "pristine-code" extension will be documented in this 
 - Added .json image preview
 - Changed icon
 - Changed keywords and README file
+
+## 0.0.6
+
+- Fixed icon
