@@ -1,0 +1,50 @@
+{
+    "name": "pristine-code",
+    "displayName": "pristine-code",
+    "description": "A dark theme for clean code.",
+    "publisher": "psi-chi",
+    "author": {
+        "name": "Shadaab Ahmed"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Psi-Chi/pristine-code"
+    },
+    "galleryBanner": {
+        "color": "#ffffff",
+        "theme": "dark"
+    },
+    "icon": "images/logo.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+      "Psi",
+      "Pristine",
+      "Psi-Chi",
+      "Psi Chi",
+      "Psi Chi Theme",
+      "Psi Theme",
+      "Psi-Chi Theme",
+      "Pristine Theme",
+      "Clean Theme",
+      "Clean Code Theme",
+      "Dark Theme",
+      "Dark",
+      "Blue",
+      "VS Code Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pristine Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pristine Code-color-theme.json"
+            }
+        ]
+    }
+}
