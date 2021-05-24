@@ -1,12 +1,12 @@
 {
     "name": "pristine-code",
-    "displayName": "pristine-code",
+    "displayName": "Pristine Code",
     "description": "A dark theme for clean code.",
     "publisher": "psi-chi",
     "author": {
         "name": "Shadaab Ahmed"
     },
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -15,7 +15,7 @@
         "url": "https://github.com/Psi-Chi/pristine-code"
     },
     "galleryBanner": {
-        "color": "#7f7f7f",
+        "color": "#232323",
         "theme": "dark"
     },
     "icon": "images/logo.png",
