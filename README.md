@@ -4,22 +4,22 @@ A dark theme for clean code.
 
 ## OUTPUT
 
-:white_square_button: HTML
+- ### HTML
 
-![HTML](/images/html.png)
+![HTML](images/html.png)
 
-:white_square_button: CSS
+- ### CSS
 
-![CSS](/images/css.png)
+![CSS](images/css.png)
 
-:white_square_button: JAVASCRIPT
+- ### JAVASCRIPT
 
-![JAVASCRIPT](/images/javascript.png)
+![JAVASCRIPT](images/javascript.png)
 
-:white_square_button: PYTHON
+- ### PYTHON
 
-![PYTHON](/images/python.png)
+![PYTHON](images/python.png)
 
-:white_square_button: MARKDOWN
+- ### MARKDOWN
 
-![MARKDOWN](/images/markdown.png)
+![MARKDOWN](images/markdown.png)
