@@ -1,25 +1,36 @@
 # PRISTINE CODE
 
-A dark theme for clean code.
+The theme uses the shades of blue and gray to make to make the code look neat.
 
 ## OUTPUT
 
-- ### HTML
+- [HTML](#html)
+- [CSS](#css)
+- [JAVASCRIPT](#javascript)
+- [JSON](#json)
+- [PYTHON](#python)
+- [MARKDOWN](#markdown)
+
+### HTML
 
 ![HTML](images/html.png)
 
-- ### CSS
+### CSS
 
 ![CSS](images/css.png)
 
-- ### JAVASCRIPT
+### JAVASCRIPT
 
 ![JAVASCRIPT](images/javascript.png)
 
-- ### PYTHON
+### JSON
+
+![JSON](images/json.png)
+
+### PYTHON
 
 ![PYTHON](images/python.png)
 
-- ### MARKDOWN
+### MARKDOWN
 
 ![MARKDOWN](images/markdown.png)
