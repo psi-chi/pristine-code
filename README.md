@@ -20,6 +20,6 @@ A dark theme for clean code.
 
 ![PYTHON](/images/python.png)
 
-:white_square_button: PYTHON
+:white_square_button: MARKDOWN
 
 ![MARKDOWN](/images/markdown.png)
