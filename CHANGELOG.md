@@ -28,3 +28,7 @@ All notable changes to the "pristine-code" extension will be documented in this 
 ## 0.0.6
 
 - Fixed icon
+
+## 0.0.7
+
+- Fixed Titlebar

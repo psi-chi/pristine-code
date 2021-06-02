@@ -6,7 +6,7 @@
     "author": {
         "name": "Shadaab Ahmed"
     },
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -23,12 +23,15 @@
         "Themes"
     ],
     "keywords": [
+      "blue",
+      "clean",
+      "dark",
+      "elegant",
+      "neat",
       "pristine",
       "psi",
       "psi-chi",
-      "dark",
-      "theme",
-      "clean theme"
+      "theme"
     ],
     "contributes": {
         "themes": [

@@ -20,7 +20,11 @@
     "editorWhitespace.foreground": "#3f3f3f",
     "editorOverviewRuler.findMatchForeground": "#000",
     "editor.findMatchBackground": "#7f7f7f",
-    "editor.findMatchHighlightBackground": "#5f5f5f"
+    "editor.findMatchHighlightBackground": "#5f5f5f",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveForeground": "#ffffff",
+    "titleBar.activeBackground": "#111111",
+    "titleBar.inactiveBackground": "#111111"
 	},
   "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
