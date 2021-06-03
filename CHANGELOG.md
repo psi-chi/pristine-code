@@ -44,3 +44,7 @@ All notable changes to the "pristine-code" extension will be documented in this 
 ## 0.1.0
 
 - Fixed terminal selection in some cases
+
+## 0.1.1
+
+- Changed #00ffbf to #00ffff in terminal

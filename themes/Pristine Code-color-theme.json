@@ -51,7 +51,7 @@
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#009fff",
     "terminal.ansiCyan": "#ffdf00",
-    "terminal.ansiGreen": "#00ffbf",
+    "terminal.ansiGreen": "#00ffff",
     "terminal.ansiMagenta": "#007fff",
     "terminal.ansiRed": "#00bfff",
     "terminal.ansiWhite": "#ffffff",
@@ -355,7 +355,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#bfff00"
+				"foreground": "#00ffbf"
 			}
 		},
 		{
