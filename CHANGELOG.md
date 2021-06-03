@@ -40,3 +40,7 @@ All notable changes to the "pristine-code" extension will be documented in this 
 ## 0.0.9
 
 - Changed terminal colors
+
+## 0.1.0
+
+- Fixed terminal selection in some cases
