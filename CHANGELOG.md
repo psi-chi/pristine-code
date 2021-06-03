@@ -36,3 +36,7 @@ All notable changes to the "pristine-code" extension will be documented in this 
 ## 0.0.8
 
 - Added theme to navigation bar and terminal
+
+## 0.0.9
+
+- Changed terminal colors
