@@ -6,7 +6,7 @@
   "author": {
     "name": "Shadaab Ahmed"
   },
-  "version": "0.1.4",
+  "version": "0.1.5",
   "engines": {
     "vscode": "^1.56.0"
   },
@@ -38,8 +38,8 @@
     "themes": [
       {
        "label": "Pristine Code (Dark)",
-        "uiTheme": "vs",
-        "path": "./themes/Pristine Code (Light)-color-theme.json"
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pristine Code (Dark)-color-theme.json"
       },
       {
         "label": "Pristine Code (Light)",

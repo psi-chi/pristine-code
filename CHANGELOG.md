@@ -64,3 +64,7 @@ All notable changes to the "pristine-code" extension will be documented in this 
 ## 0.1.4
 
 - Fixed description
+
+## 0.1.5
+
+- Fixed light theme colors
