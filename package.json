@@ -38,8 +38,8 @@
     "themes": [
       {
        "label": "Pristine Code (Dark)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Pristine Code (Dark)-color-theme.json"
+        "uiTheme": "vs",
+        "path": "./themes/Pristine Code (Light)-color-theme.json"
       },
       {
         "label": "Pristine Code (Light)",

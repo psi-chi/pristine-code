@@ -72,32 +72,28 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#000000",
-        "fontStyle": "bold"
+        "foreground": "#000000"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color", "constant.other.caps"],
       "settings": {
-        "foreground": "#9f9f9f",
-        "fontStyle": "bold"
+        "foreground": "#9f9f9f"
       }
     },
     {
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#ff007f",
-        "fontStyle": "bold"
+        "foreground": "#ff007f"
       }
     },
     {
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#9f9f9f",
-        "fontStyle": "bold"
+        "foreground": "#9f9f9f"
       }
     },
     {
@@ -121,7 +117,7 @@
       ],
       "settings": {
         "foreground": "#00bfff",
-        "fontStyle": "bold underline"
+        "fontStyle": "underline"
       }
     },
     {
@@ -134,16 +130,14 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#00bfff",
-        "fontStyle": "bold"
+        "foreground": "#bf00ff"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#000000",
-        "fontStyle": "bold"
+        "foreground": "#000000"
       }
     },
     {
@@ -151,7 +145,7 @@
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
         "foreground": "#000000",
-        "fontStyle": "bold underline"
+        "fontStyle": "underline"
       }
     },
     {
@@ -166,16 +160,22 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#00f0b4",
-        "fontStyle": "bold"
+        "foreground": "#00f0b4"
       }
     },
     {
-      "name": "Function Argument, Function Call Argument",
-      "scope": ["variable.parameter", "meta.function-call.arguments"],
+      "name": "Function Argument",
+      "scope": "variable.parameter",
       "settings": {
         "foreground": "#000000",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function Call Arguement",
+      "scope": "meta.function-call.arguments",
+      "settings": {
+        "foreground": "#000000"
       }
     },
     {
@@ -186,11 +186,11 @@
         "constant.other.key",
         "entity.other.inherited-class",
         "markup.inserted.git_gutter",
-        "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+        "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+        "constant.character.format.placeholder.other.python"
       ],
       "settings": {
-        "foreground": "#00bfff",
-        "fontStyle": "bold"
+        "foreground": "#00bfff"
       }
     },
     {
@@ -228,8 +228,7 @@
       "name": "Entity Types",
       "scope": "support.type",
       "settings": {
-        "foreground": "#000000",
-        "fontStyle": "bold"
+        "foreground": "#000000"
       }
     },
     {
@@ -243,16 +242,14 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#000000",
-        "fontStyle": "bold"
+        "foreground": "#000000"
       }
     },
     {
       "name": "CSS Property Type",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#00bfff",
-        "fontStyle": "bold"
+        "foreground": "#00bfff"
       }
     },
     {
@@ -263,8 +260,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#bf00ff",
-        "fontStyle": "bold"
+        "foreground": "#bf00ff"
       }
     },
     {
@@ -272,7 +268,7 @@
       "scope": ["variable.language"],
       "settings": {
         "foreground": "#bf00ff",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
       }
     },
     {
@@ -280,7 +276,7 @@
       "scope": ["entity.name.method.js"],
       "settings": {
         "foreground": "#00bfff",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
       }
     },
     {
@@ -290,16 +286,14 @@
         "variable.function.constructor"
       ],
       "settings": {
-        "foreground": "#00bfff",
-        "fontStyle": "bold"
+        "foreground": "#00bfff"
       }
     },
     {
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#9f9f9f",
-        "fontStyle": "bold"
+        "foreground": "#9f9f9f"
       }
     },
     {
@@ -310,70 +304,63 @@
       ],
       "settings": {
         "foreground": "#9f9f9f",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
       }
     },
     {
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#9f9f9f",
-        "fontStyle": "bold"
+        "foreground": "#9f9f9f"
       }
     },
     {
       "name": "CSS ID's",
       "scope": ["source.sass keyword.control"],
       "settings": {
-        "foreground": "#9f9f9f",
-        "fontStyle": "bold"
+        "foreground": "#9f9f9f"
       }
     },
     {
       "name": "Inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#00ff7f",
-        "fontStyle": "bold"
+        "foreground": "#00ff7f"
       }
     },
     {
       "name": "Deleted",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#bf0000",
-        "fontStyle": "bold"
+        "foreground": "#bf0000"
       }
     },
     {
       "name": "Changed",
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#bf00ff",
-        "fontStyle": "bold"
+        "foreground": "#bf00ff"
       }
     },
     {
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#00bfff",
-        "fontStyle": "bold"
+        "foreground": "#00bfff"
       }
     },
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#00f0b4",
-        "fontStyle": "bold"
+        "foreground": "#00f0b4"
       }
     },
     {
       "name": "URL",
       "scope": ["*url*", "*link*", "*uri*"],
       "settings": {
-        "fontStyle": "italic bold underline"
+        "fontStyle": "italic underline"
       }
     },
     {
@@ -384,7 +371,7 @@
       ],
       "settings": {
         "foreground": "#00bfff",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
       }
     },
     {
@@ -394,7 +381,7 @@
       ],
       "settings": {
         "foreground": "#ff007f",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
       }
     },
     {
@@ -551,7 +538,7 @@
       "scope": ["markup.underline"],
       "settings": {
         "foreground": "#3f3f3f",
-        "fontStyle": "bold underline"
+        "fontStyle": "underline"
       }
     },
     {
@@ -647,8 +634,7 @@
       "name": "Booleans",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#00f0b4",
-        "fontStyle": "bold"
+        "foreground": "#00f0b4"
       }
     },
     {
@@ -671,48 +657,43 @@
       "name": "Global Variables",
       "scope": "meta.selector.css",
       "settings": {
-        "foreground": "#9f9f9f",
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "Languages",
-      "scope": [
-        "source.python",
-        "source.ruby",
-        "source.go",
-        "source.js",
-        "source.ts",
-        "source.html",
-        "source.css",
-        "source.php",
-        "source.json",
-        "source.java",
-        "source.rust",
-        "source.c",
-        "source.c++",
-        "source.c#",
-        "source.svelte"
-      ],
-      "settings": {
-        "foreground": "#000000",
-        "fontStyle": "bold"
+        "foreground": "#9f9f9f"
       }
     },
     {
       "name": "Brackets",
-      "scope": "punctuation",
+      "scope": [
+        "punctuation.definition.arguments.begin.python",
+        "punctuation.definition.arguments.end.python",
+        "punctuation.definition.parameters.begin.python",
+        "punctuation.definition.parameters.end.python",
+        "punctuation.definition.list.begin.python",
+        "punctuation.definition.list.end.python",
+        "punctuation.definition.dict.begin.python",
+        "punctuation.definition.dict.end.python",
+        "punctuation.section.property-list.begin.bracket.curly.css",
+        "punctuation.section.property-list.end.bracket.curly.css",
+        "punctuation.section.function.begin.bracket.round.css",
+        "punctuation.section.function.end.bracket.round.css",
+        "punctuation.definition.entity.begin.bracket.square.css",
+        "punctuation.definition.entity.end.bracket.square.css",
+        "punctuation.section.media.begin.bracket.curly.css",
+        "punctuation.section.media.end.bracket.curly.css",
+        "punctuation.definition.dictionary.begin.json",
+        "punctuation.definition.dictionary.end.json",
+        "punctuation.definition.array.begin.json",
+        "punctuation.definition.array.end.json",
+        "punctuation.definition.parameters.begin.js",
+        "punctuation.definition.parameters.end.js",
+        "punctuation.definition.block.end.svelte",
+        "punctuation.definition.block.begin.svelte",
+        "meta.brace.round.js",
+        "meta.brace.square.js",
+        "meta.brace.curly.js",
+        "punctuation.definition.block.js"
+      ],
       "settings": {
-        "foreground": "#000000",
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "Python Bracket",
-      "scope": "constant.character.format.placeholder.other.python",
-      "settings": {
-        "foreground": "#00bfff",
-        "fontStyle": "bold"
+        "foreground": "#9f9f9f"
       }
     }
   ]
