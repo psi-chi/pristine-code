@@ -1,6 +1,6 @@
 # PRISTINE CODE
 
-The theme uses the shades of blue and gray to make to make the code look neat.
+The theme uses the shades of blue and gray to make the code look neat.
 
 ## OUTPUT
 
