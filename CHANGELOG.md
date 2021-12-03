@@ -60,3 +60,7 @@ All notable changes to the "pristine-code" extension will be documented in this 
 - Added colors to brackets
 - Fixed minor bugs
 - Modified README
+
+## 0.1.4
+
+- Fixed description
