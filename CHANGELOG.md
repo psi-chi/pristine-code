@@ -52,3 +52,11 @@ All notable changes to the "pristine-code" extension will be documented in this 
 ## 0.1.2
 
 - Fixed terminal errors background
+
+## 0.1.3
+
+- Added light theme
+- Modified icon
+- Added colors to brackets
+- Fixed minor bugs
+- Modified README

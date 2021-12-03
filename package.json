@@ -1,45 +1,51 @@
 {
-    "name": "pristine-code",
-    "displayName": "Pristine Code",
-    "description": "A dark theme for clean and elegant code.",
-    "publisher": "psi-chi",
-    "author": {
-        "name": "Shadaab Ahmed"
-    },
-    "version": "0.1.2",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Psi-Chi/pristine-code"
-    },
-    "galleryBanner": {
-        "color": "#232323",
-        "theme": "dark"
-    },
-    "icon": "images/icon.png",
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-      "blue",
-      "clean",
-      "dark",
-      "elegant",
-      "neat",
-      "pristine",
-      "psi",
-      "psi-chi",
-      "theme"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Pristine Code",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Pristine Code-color-theme.json"
-            }
-        ]
-    }
+  "name": "pristine-code",
+  "displayName": "Pristine Code",
+  "description": "A theme for clean and elegant code.",
+  "publisher": "psi-chi",
+  "author": {
+    "name": "Psi"
+  },
+  "version": "0.1.3",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Psi-Chi/pristine-code"
+  },
+  "galleryBanner": {
+    "color": "#232323",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "blue",
+    "clean",
+    "dark",
+    "light",
+    "elegant",
+    "neat",
+    "pristine",
+    "psi",
+    "psi-chi",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+       "label": "Pristine Code (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pristine Code (Dark)-color-theme.json"
+      },
+      {
+        "label": "Pristine Code (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/Pristine Code (Light)-color-theme.json"
+      }
+    ]
+  }
 }
