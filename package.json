@@ -4,15 +4,15 @@
   "description": "A theme for clean and elegant code.",
   "publisher": "psi-chi",
   "author": {
-    "name": "Shadaab Ahmed"
+    "name": "Psi"
   },
-  "version": "0.1.5",
+  "version": "0.1.6",
   "engines": {
-    "vscode": "^1.56.0"
+    "vscode": "^1.68.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Psi-Chi/pristine-code"
+    "url": "https://github.com/psi-chi/pristine-code"
   },
   "galleryBanner": {
     "color": "#232323",

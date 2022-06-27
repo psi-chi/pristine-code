@@ -68,3 +68,8 @@ All notable changes to the "pristine-code" extension will be documented in this 
 ## 0.1.5
 
 - Fixed light theme colors
+
+## 0.1.6
+
+- Added brackers support
+- Changed icon
